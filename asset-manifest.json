@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.com/rectprop2/static/css/main.f855e6bc.css",
-    "main.js": "/github.com/rectprop2/static/js/main.735e9642.js",
-    "static/js/453.563ce9bd.chunk.js": "/github.com/rectprop2/static/js/453.563ce9bd.chunk.js",
-    "index.html": "/github.com/rectprop2/index.html",
-    "main.f855e6bc.css.map": "/github.com/rectprop2/static/css/main.f855e6bc.css.map",
-    "main.735e9642.js.map": "/github.com/rectprop2/static/js/main.735e9642.js.map",
-    "453.563ce9bd.chunk.js.map": "/github.com/rectprop2/static/js/453.563ce9bd.chunk.js.map"
+    "main.css": "/rectprop2/static/css/main.f855e6bc.css",
+    "main.js": "/rectprop2/static/js/main.86fc52c6.js",
+    "static/js/453.563ce9bd.chunk.js": "/rectprop2/static/js/453.563ce9bd.chunk.js",
+    "index.html": "/rectprop2/index.html",
+    "main.f855e6bc.css.map": "/rectprop2/static/css/main.f855e6bc.css.map",
+    "main.86fc52c6.js.map": "/rectprop2/static/js/main.86fc52c6.js.map",
+    "453.563ce9bd.chunk.js.map": "/rectprop2/static/js/453.563ce9bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.735e9642.js"
+    "static/js/main.86fc52c6.js"
   ]
 }
